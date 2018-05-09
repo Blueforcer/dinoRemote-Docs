@@ -8,4 +8,5 @@
 * Alles im Griff
 
 
+[Portal](https://remote.dinotec.de)
 [Get Started](README)
