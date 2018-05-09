@@ -8,14 +8,17 @@ Es gibt 2 Möglichkeiten eine neue Anlage zu registrieren. Das Menü hierzu find
 ![image alt text](assets/newSystem.png)
 
 #### Der Endkunde registriert die Anlage
-Sollte der Endkunde kein Fachhändler haben oder der Endkunde die Anlage selbst registrieren wollen, so kann der Kunde dies über seinen Account erledigen. Die Anlage wird dann an seinen Account gebunden.
+Sollte der Endkunde keinen Fachhändler haben oder der Endkunde die Anlage selbst registrieren wollen, so kann der Kunde dies über seinen Account erledigen. Die Anlage wird dann an seinen Account gebunden.
+
+Nach der Registrierung ist die Anlage sofort in der Anlagenübersicht verfügbar.
+
 
 #### Der Fachhändler registriert die Anlage  
 Der Fachhändler hat die Möglichekeit eine Anlage entweder für Ihn selbst (z.B Privatpool oder DemoAnlage) oder für einen seiner Endkunden zu registrieren.
 
 Nach der Registrierung ist die Anlage sofort in der Anlagenübersicht verfügbar.
 
-
+***
 
 ### Mehrere Anlagen über eine dinoRemote Box registrieren
 
