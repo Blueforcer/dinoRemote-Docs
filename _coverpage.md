@@ -1,4 +1,4 @@
-![logo](assets/dinotec_logo_2.png)
+![logo](../assets/dinotec_logo_2.png)
 
 # dinoRemote <small>1.5</small>
 
@@ -6,8 +6,12 @@
 * Alles im Griff
 
 
-[Portal](https://remote.dinotec.de)
-[Get Started](README)
+[Deutsch](de-de/README) [english](en-en/README)
+[spanish](es-es/README)
+[french](fr-fr/README)
+[dutch](nl-nl/README)
+[русский](ru-ru/README)
+[српски](sr-sr/README)
 
 <!-- background image -->
 

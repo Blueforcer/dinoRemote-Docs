@@ -10,4 +10,4 @@ Wenn Sie als Endkunde einen betreuenden Fachhändler haben so tragen Sie den Fir
 
 Sobald Sie Ihre Eingaben mit einem Klick auf "Registrieren" abgeschlosen haben, wird sich ein dinotec Mitarbeiter um Ihre Registrierung kümmern und diese schnellstmöglich freigeben. Wenn die Registrierung überprüft wurde erhalten Sie kurz darauf eine email an Ihre angegebene Email-Adresse, In dieser  Sie aufgefordert werden, über einen Link, ihr persönliches Passwort zu vergeben. Direkt danach haben die Zugriff auf dinoRemote.
 
-![image alt text](assets/register.png)
+![image alt text](../assets/register.png)
