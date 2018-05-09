@@ -11,7 +11,8 @@ Auch die neueste Entwicklung der Steuerungsspezialisten beschäftigt sich mit de
   
     
   
-**dino Remote sicher verschlüsselt**
+**dino Remote sicher verschlüsselt**  
+  
 Mit dinoRemote hat dinotec eine cloudbasierte Lösung entwickelt, die nach aktuellen Sicherheitsstandards den einfachen Fernzugriff ermöglicht. Das Webportal ist durch sichere AES-256 Verschlüsselung, CSRF-Sicherung, authentifizierte API-Aufrufe, und HTTPS abgesichert. Die Kommunikation zur Anlage erfolgt durch einen extrem sicheren VPN Tunnel mit Blowfish 4096Bit Verschlüsselung. Die Anbindung eines Systems an das dinoRemote ist denkbar einfach und erfolgt in nur wenigen Schritten.  
   
 Der Schwimmbadbesitzer kann über dinoRemote zusätzlich seinen Fachhändler und dinotec zur Fernbedienung seiner Technik freischalten. Überdies bestimmt er an welche Email-Adressen die Systemmeldungen gesendet werden. Der dinotec Fachhändler hat über dinoRemote einen schnellen und komfortablen Überblick über alle Anlagen die er in seiner Überwachung hat. dinoRemote ermöglicht dem Fachhändler einen sicheren, schnellen und direkten Service für seine Kunden anzubieten. Ein kurzer Blick ins dinoRemote genügt und der Fachhändler ist über den Anlagenstatus informiert. Er sieht auch, ob er beispielsweise zum nächsten Ortstermin frische Wasserpflegemittel mitbringen kann. 
