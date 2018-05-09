@@ -1,43 +1,17 @@
-# AWTRIX
-
-
-
-Welcome to my first open source project. This documentation is maintained to the best of my knowledge and belief. However, it can of course happen that errors creep in. If you have any problems or questions, please feel free to contact the Facebook group. They'll be happy to help you.  
+# DinoRemote  
   
+Ohne Frage hat es viele Vorteile wenn man zu jederzeit von jedem Ort der Welt aus Zugriff auf seine Schwimmbadtechnik hat. So kann man problemlos während des Urlaubs die Wassertemperatur nach unten stellen, um Energie zu sparen oder feststellen ob und wann neue Wasserpflegemittel benötigt werden. Wartungen, Optimierungen und Problembeseitigung können schnell und kostengünstig direkt "durch die Leitung" erledigt werden. Doch bei aller Freude über den Nutzen solcher Funktionen darf man das Thema der Sicherheit nicht außer Acht lassen.
   
-Special Thanks to my friend Quentin Daems for this review! [Subscribe](https://www.youtube.com/channel/UCM8iZUKxIHGmAaRcQ_aTYfA) his Channel for more Weekend Makes!  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PjhV3jEGNtc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
-
-
-Here are a few links:  
+   
   
-[Release Page](https://awtrix.github.io)  
-[Facebook Group](https://www.facebook.com/groups/126493104851075/)  
-[Buy me a coffee or a case of beer :-)](https://www.paypal.com/donate/?token=zzOPTakpgoeB0p6MDyLKumNc01S-DTPuGZ-mUeZtBPR4mdEK9KA1rYjogoxp0cNHd59fO0&country.x=DE&locale.x=DE)  
-
-
-
-AWTRIX is a smart WiFi-capable clock based on an ESP8266.
-
-- Time and date via NTP server
-- Current weather via Openweathermap
-- Simulation of a virtual "pet" with different emotions 
-- Game of Life 
-- Youtube Counter
-- Facebook Counter
-- Twitter Counter
-- DHT Senor reading
-- Fire simulation
-
-more functions: 
-- Control and configuration via BLYNK, MQTT, UDP or Android App
-- Automatic brightness control via LDR
-- easy Firmware update via WiFi or Web or Autoupdate
-
-
-The case is designed in Fusion360 and printed in 3D.
-You can get the STL-Files from Thingiverse:
-https://www.thingiverse.com/thing:2791276
-
-Facebook-Group:
-https://www.facebook.com/groups/126493104851075/
+**Sicherer Fernzugriff**  
+  
+Die dinotec GmbH gehört zu den führenden Anbietern moderner Steuerungssysteme. Daher liegt es nahe, dass sich das hessische Unternehmen bereits seit längerer Zeit mit dem Thema Daten- und Zugriffssicherheit beschäftigt. So gehört beispielsweise ein mehrstufiges über Passwörter abgesichertes Berechtigungssystem zur Standardfunktion aller dinotecNET+ Systeme. Dies verhindert beispielsweise, dass Unberechtigte wichtige Systemeinstellungen verändern. 
+Auch die neueste Entwicklung der Steuerungsspezialisten beschäftigt sich mit dem sicheren Fernzugriff auf die Schwimmbadsteuerung. Den Wenigsten ist bewusst, dass sich jedes halbwegs versierte "Computerkid" in nur wenigen Minuten Zutritt in ein ungesichertes Netz (durch z.B DynDNS, Portfreigaben etc) verschaffen kann. Je nachdem welche weiteren Systeme im LAN hängen, kann weit mehr als "nur" die Schwimmbadsteuerung manipuliert werden. "Wir hatten schon Kunden bei denen wir durch unseren Fernzugriff auch Zugriff auf deren Kassensysteme erlangt hatten. Sicher war der Kunde dankbar, dass wir ihm diese Sicherheitslücke aufgezeigt haben, aber er hatte danach auch ein flaues Gefühl im Magen" so Andreas Schmidt Geschäftsleitung der Firma dinotec. "Natürlich weisen wir unsere Kunden darauf hin, dass sie sich in allen Fragen der Netzwerkssicherheit mit ihren EDV Spezialisten abstimmen sollen, aber für viele Leute sind solche Fragen einfach nur "Böhmische Dörfer", aus diesem Grund haben wir unser dinoRemote entwickelt" so Schmidt weiter.  
+  
+    
+  
+**dino Remote sicher verschlüsselt**
+Mit dinoRemote hat dinotec eine cloudbasierte Lösung entwickelt, die nach aktuellen Sicherheitsstandards den einfachen Fernzugriff ermöglicht. Das Webportal ist durch sichere AES-256 Verschlüsselung, CSRF-Sicherung, authentifizierte API-Aufrufe, und HTTPS abgesichert. Die Kommunikation zur Anlage erfolgt durch einen extrem sicheren VPN Tunnel mit Blowfish 4096Bit Verschlüsselung. Die Anbindung eines Systems an das dinoRemote ist denkbar einfach und erfolgt in nur wenigen Schritten.  
+  
+Der Schwimmbadbesitzer kann über dinoRemote zusätzlich seinen Fachhändler und dinotec zur Fernbedienung seiner Technik freischalten. Überdies bestimmt er an welche Email-Adressen die Systemmeldungen gesendet werden. Der dinotec Fachhändler hat über dinoRemote einen schnellen und komfortablen Überblick über alle Anlagen die er in seiner Überwachung hat. dinoRemote ermöglicht dem Fachhändler einen sicheren, schnellen und direkten Service für seine Kunden anzubieten. Ein kurzer Blick ins dinoRemote genügt und der Fachhändler ist über den Anlagenstatus informiert. Er sieht auch, ob er beispielsweise zum nächsten Ortstermin frische Wasserpflegemittel mitbringen kann. 
