@@ -1,4 +1,4 @@
-![logo](assets/dinotec_logo_1.png)
+![logo](assets/dinotec_logo_2.png)
 
 # dinoRemote <small>1.5</small>
 
@@ -10,3 +10,11 @@
 
 [Portal](https://remote.dinotec.de)
 [Get Started](README)
+
+<!-- background image -->
+
+
+
+<!-- background color -->
+
+![color](#f0f0f0)
