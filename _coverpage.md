@@ -1,4 +1,4 @@
-![logo](assets/awtrixbanner.jpg)
+![logo](assets/dinotec_logo_1.png)
 
 # dinoRemote <small>1.5</small>
 
