@@ -1,4 +1,4 @@
-![logo](../assets/dinotec_logo_2.png)
+![logo](/assets/dinotec_logo_2.png)
 
 # dinoRemote <small>1.5</small>
 
