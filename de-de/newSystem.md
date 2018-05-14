@@ -5,7 +5,7 @@ Dieser Token ist einzigartig und passt nur zu dieser Box. Wie Sie mehrere Anlage
 
 Es gibt 2 Möglichkeiten eine neue Anlage zu registrieren. Das Menü hierzu finden Sie in der linken Sidebar.
 
-![image alt text](assets/newSystem.png)
+![image alt text](assets/newsystem.png)
 
 #### Der Endkunde registriert die Anlage
 Sollte der Endkunde keinen Fachhändler haben oder der Endkunde die Anlage selbst registrieren wollen, so kann der Kunde dies über seinen Account erledigen. Die Anlage wird dann an seinen Account gebunden.
