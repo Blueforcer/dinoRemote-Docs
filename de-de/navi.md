@@ -27,7 +27,7 @@ Nach der Anmeldung befinden Sie sich direkt in der Anlagenübersicht. Hier sehen
 + Meldungen:      Anzahl der Meldungen die in der Anlage aufgelaufen sind.
 
 ### Anlagenansicht ###
-Um die Fernwartung einer Anlage zu beginnen, wählen Sie die gwünschte Zeile oder Kachel aus.
+Um die Fernwartung einer Anlage zu beginnen, wählen Sie die gewünschte Zeile oder Kachel aus. Sie werden dann direkt in die Fernwartung geleitet.
 Die Anlagenansicht ist in mehrere Funktionen unterteilt.
 ![image alt text](../assets/system.png)
 Die Erklärung jeder Funktion finden Sie in folgenden Abschnitten:  

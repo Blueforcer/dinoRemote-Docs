@@ -1,4 +1,4 @@
-* [Home](de/)
+* [Home](de-de/README)
 
 * [Technisches](de-de/technical)  
 
