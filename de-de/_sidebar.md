@@ -6,11 +6,13 @@
     * [Neuer Benutzer](de-de/newUser)
     * [Neue Anlage](de-de/newSystem)
 
-* [**Anlagenübersicht**](de-de/overview)  
-
-* Fernwartung
-    * [Fernanzeige](de-de/vnc)
-    * [Dateizugriff](de-de/ftp)
+* Funktionen
+    * [Navigation](de-de/navi)
+    * [Fernwartung](de-de/vnc)
+    * [LiveView](de-de/liveview)
+    * [Einstellungen](de-de/settings)
+    * [Meldungen](de-de/email)
+    * [informationen](de-de/info)
 
 * [**Bestellvorschlag**](de-de/order)  
 
