@@ -11,7 +11,7 @@ Durch ein klick auf "EDITIERMODUS BEGINNEN" können Sie sich Ihren LiveView konf
 
 ---
 
-<img align="right" width="393" height="848" src="../assets/edit.png">
+<img align="right" width="393" height="848" src="assets/edit.png">
 
 Das LiveView besteht aus "Modulen".  
 dinotec hat für den einfachen Zugriff einige wichtige Parameter vorgefertigt.  
@@ -64,7 +64,7 @@ Wenn sie den eigenen Namen komplett löschen, so wird wieder der Standartname ve
 
 Durch Klicken auf die Pfleile die sich am Rand jedes Moduls befinden, können die die Anordnung im LiveView ändern.  
   
-![image alt text](assets/gif.gif)
+![image alt text](assets/order.gif)
 
 
 
