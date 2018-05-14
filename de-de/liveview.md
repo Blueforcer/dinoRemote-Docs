@@ -11,7 +11,7 @@ Durch ein klick auf "EDITIERMODUS BEGINNEN" können Sie sich Ihren LiveView konf
 
 ---
 
-<img align="right" width="393" height="848" src="assets/edit.png">
+<img align="right" width="393" height="848" src="de-de/assets/edit.png">
 
 Das LiveView besteht aus "Modulen".  
 dinotec hat für den einfachen Zugriff einige wichtige Parameter vorgefertigt.  
