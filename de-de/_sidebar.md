@@ -1,7 +1,7 @@
 * [Home](de-de/README)
 
 * [Technisches](de-de/technical)  
-
+* [Benutzerrollen](de-de/role)  
 * Registrierung
     * [Neuer Benutzer](de-de/newUser)
     * [Neue Anlage](de-de/newSystem)
@@ -14,10 +14,5 @@
     * [Meldungen](de-de/email)
     * [informationen](de-de/info)
 
-* [**Bestellvorschlag**](de-de/order)  
-
-* [**Email-Versand**](de-de/email)
-
-* [**LiveView**](de-de/liveview)
 
 
