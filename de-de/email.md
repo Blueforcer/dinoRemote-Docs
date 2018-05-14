@@ -16,7 +16,7 @@ Nur wenige Meldungen erfordern Ihr Handeln. Wir empfehlen Ihnen daher lediglich 
 Tragen Sie in den ersten Abschnitt bis zu 3 Adressen ein, an die die Meldungen versendet werden sollen.
 Die Meldungen sind für alle E-Mail adressen gleich. Jeder Benutzer kann sich jedoch individuelle Meldungen senden lassen.
 
-![image alt text](../assets/mail.png)
+![image alt text](assets/mail.png)
 
 Nach einem Klick auf **SPEICHERN** erscheint die Auswahl der Meldungen.  
 Hier finden Sie alle Meldungen welche theretisch auf der Anlage auftreten können.    
@@ -25,4 +25,4 @@ Sie haben die Möglichkeit die Meldungen nach Ihrer Wichtigkeit zu sortieren (St
 **<span style="color:green">MELDUNGEN ABONNIEREN</span>**. speichert die Auswahl und aktivert das Meldesystem.  
 **<span style="color:red">ABONNEMENTS ABMELDEN</span>** deaktiviert alle Meldungen.
 
- ![image alt text](../assets/message.png)
+ ![image alt text](assets/message.png)

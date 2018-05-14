@@ -7,13 +7,13 @@ Für den Aufbau des VPN-Tunnels, ist die **dinoRemote Box** erforderlich. Diese 
 Der Anschluss der dinoRemote Box (im folgenden **dRB**) ist simpel:
 Schließen Sie das Netzwerkkabel, welches vom DSL Router kommt, an den **WAN** Port der dRB an. Das Operationspanel (OP57 etc.) der Net+ Anlage wird am **LAN** Port angeschlossen.
 
-![image alt text](../assets/cable.png)
+![image alt text](assets/cable.png)
   
 ***
 
 Sobald die dRB mit Strom versorgt ist und mit dem Internet verbunden ist, leuchtet kurz darauf die VPN Lampe auf der Box auf. Dies ist das Zeichen, das die Verbindung zu unserem dinoRemote Server erfolgreich ist.
 Wenn dies nicht der Fall ist, können sie im Abschnitt Fehlerbehebung nach der Lösung suchen.  
-![image alt text](../assets/vpn.jpg)  
+![image alt text](assets/vpn.jpg)  
 ***
 
 # UMTS Anbindung
