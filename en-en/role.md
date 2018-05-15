@@ -6,7 +6,7 @@ dinoRemote has several user groups and roles:
 
 In the following the structure and the structure of dinoRemote is explained.
 
-At the top is the plant. This can have only one owner.  
+At the top is the system. This can have only one owner.  
 The owner of the system is assigned a maximum of one specialist dealer company.   
 A dealer can have several users.  
 While the owner can only see his own installations, the dealer has access to all the installations assigned to him.  

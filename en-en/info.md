@@ -15,13 +15,13 @@ The system type
 The version of the basic system installed on the system.
 
 + **Address**
-The location of the plant
+The location of the system
 
 + **Specialist dealer**
 The responsible specialist dealer 
 
 + **Owner**
-The owner of the plant
+The owner of the system
 
 + **Last online**
 The time at which the system was last connected to dinoRemote. The query takes place every 5 minutes.

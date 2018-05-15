@@ -1,6 +1,6 @@
 # System overview
 
-The main screen after logging in is the plant overview.
+The main screen after logging in is the system overview.
 Here all attachments are listed to which the user has access.
 
 ![image alt text](assets/overview.png)

@@ -77,4 +77,3 @@ Zeigt den Wert als farbigen Tacho an
 + Bit-Status
 Zeigt den Zustand eines einzelnen Bits im Register an.
 
-

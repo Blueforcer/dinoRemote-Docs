@@ -1,4 +1,4 @@
-Registration of a new plant
+Registration of a new system
 
 To register a new system you need the 12-digit token on the **dinoRemote Box**.
 This token is unique and only fits this box. The next section explains how you can use several systems with one **dinoRemote Box**.
