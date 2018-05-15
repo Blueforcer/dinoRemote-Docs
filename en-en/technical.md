@@ -7,16 +7,16 @@ The **dinoRemote Box** is required for setting up the VPN tunnel. This uses the 
 The connection of the dinoRemote Box (in the following **dRB**) is simple:
 Connect the network cable coming from the DSL router to the **WAN** port of the dRB. The operation panel (OP57 etc.) of the Net+ system is connected to the **LAN** port.
 
-![image alt text](../assets/cable.png)
+![image alt text](assets/cable.png)
   
 ***
 
 As soon as the dRB is powered and connected to the Internet, the VPN lamp on the box will light up. This is the sign that the connection to our dinoRemote server is successful.
 If this is not the case, you can search for the solution in the Troubleshooting section.  
-![image alt text](../assets/vpn.jpg)  
+![image alt text](assets/vpn.jpg)  
 ***
 
-UMTS connection
+**UMTS connection**
 
 the dRB can also be connected to the dinoRemote via mobile radio. However, we recommend that you always use the stable version via DSL.  
 The optional UMTS modem and a SIM card with data tariff (min. 1GB/month) are required for connection via UMTS. The SIM card must be provided by the operator.  
@@ -28,14 +28,11 @@ Important:*** It is absolutely necessary that the PIN of the SIM card is deactiv
 
 # Troubleshooting
 
-** The VPN lamp is not lit **
+**The VPN lamp is not lit**
 
-The DSL router must be able to assign an IP address via DHCP (If this is not possible for technical reasons, please contact our support).
-The VPN tunnel is established via the standard OpenVPN port 1194. Please make sure that it is not blocked by a firewall.
-Do not use a very long unshielded network cable.
-Do not use Wlan adapters or powerline adapters
-Check the correct cabling
-Data transmission is too slow (mainly with UMTS)
-
-
-Translated with www.DeepL.com/Translator
++ The DSL router must be able to assign an IP address via DHCP (If this is not possible for technical reasons, please contact our support).
++ The VPN tunnel is established via the standard OpenVPN port 1194. Please make sure that it is not blocked by a firewall.
++ Do not use a very long unshielded network cable.
++ Do not use Wlan adapters or powerline adapters
++ Check the correct cabling
++ Data transmission is too slow (mainly with UMTS)

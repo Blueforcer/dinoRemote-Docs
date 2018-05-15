@@ -33,7 +33,7 @@ Zudem wird bei jedem Modul angezeigt, zu welchem Kreislauf diese Information geh
 
 Im oberen Bereich können Sie nach vorhanden Modulen suchen.  
 
-Sie haben auch über den Expertenmodus die Möglichkeit ihre eigenen Module zu Konfigurieren.
+Sie haben auch über den Expertenmodus die Möglichkeit ihre eigenen Module zu Konifgurieren.
     
 **ACHTUNG:**  
 Diese Funktion ist in der Lage jede Infomrationen der Anlage abzubilden und ist nur Benutzern empfohlen die sich mit dem internen Aufbau der Anlagensoftware auskennen. 
@@ -61,20 +61,10 @@ Wenn sie den eigenen Namen komplett löschen, so wird wieder der Standartname ve
 
 ## Anordnung ändern
 
+
 Durch Klicken auf die Pfleile die sich am Rand jedes Moduls befinden, können die die Anordnung im LiveView ändern.  
   
 ![image alt text](assets/order.gif)
 
-## Expertenmodus
-
-Im Expertenmodus werden alle verfügbaren Register aus dem Net+ System aufgelistet.
-Wählen Sie ein beliebiges Register aus und klicken Sie anschließend auf das <i class="fa fa-cog fa-lg"></i>.
-hier haben Sie die Möglichkeit die Anziege zu Konfigurieren:
-+ Reguläres Register
-Zeigt nur den Wert des Registers an (Wenn vorhanden, mit Einheit)
-+ Hygeneparameter
-Zeigt den Wert als farbigen Tacho an
-+ Bit-Status
-Zeigt den Zustand eines einzelnen Bits im Register an.
 
 
