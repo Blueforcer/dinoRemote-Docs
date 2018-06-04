@@ -6,7 +6,7 @@
 * Alles im Griff
 
 
-[Deutsch](de-de/README) 
+[deutsch](de-de/README) 
 [english](en-en/README)
 [spanish](es-es/README)
 [french](fr-fr/README)
