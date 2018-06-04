@@ -6,7 +6,7 @@ Hier finden Sie verschiedene Informationen zu der gewählten Anlage
 
 + **Ablaufdatum**
 Jede dinoRemote Box besitzt ein einzigartiges Zertifikat. Dieses sorgt für eine sichere Verbindung zum dinoRemote Server.
-Unsere Zertifikate werden laufen nach 10 Jahren aus. Das exakte Datum wird hier angezeigt. 2 Monate vopr Ablauf erscheint in dieser Zeile eine Warnung. Bitte setzen Sie sich dann mit einem dinotec Mitarbeiter in Verbindung damit dieser ein neue sZertifikat erstellen kann.
+Unsere Zertifikate laufen nach 10 Jahren aus. Das exakte Datum wird hier angezeigt. 2 Monate vor Ablauf erscheint in dieser Zeile eine Warnung. Bitte setzen Sie sich dann mit einem dinotec Mitarbeiter in Verbindung damit dieser ein neues Zertifikat erstellen kann.
 
 + **Anlagentyp**
 Der Anlagentyp

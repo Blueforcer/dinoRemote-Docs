@@ -5,11 +5,11 @@ Die dinoRemote Ansicht ist in 4 Bereiche Unterteilt
 ![image alt text](assets/overview.png)
 
 + **1: Linke Sidebar**  
-    Hier Navigieren Sie durch dinoRemote. Öffnen Sie die Anlagenübersicht, Ändern Sie Ihre Accountinformationen usw.
+    Hier navigieren Sie durch dinoRemote. Öffnen Sie die Anlagenübersicht, Ändern Sie Ihre Accountinformationen usw.
 + **2: Hauptfenster**  
     Hier werden die gewüschten Informationen der jeweiligen Seite angezeigt.
 + **3: Rechte Sidebar**  
-    in der Anlagenübersicht werden hier die akutellen Meldungen angezeigt.
+    In der Anlagenübersicht werden hier die akutellen Meldungen angezeigt.
 + **3: Quickbar**   
 ![image alt text](assets/navbar.png)
 + Umschaltung zwischen Kachel- und Listenansicht (nur in der Anlagenübersicht oder auf dem Dashboard)
@@ -22,7 +22,7 @@ Nach der Anmeldung befinden Sie sich direkt in der Anlagenübersicht. Hier sehen
 ![image alt text](assets/systems.png)
 
 + Status :        Zeigt den Online / Offline Status der Anlage an.
-+ Anzeigename:    Einfacher Name um die Anlage zu idendifizieren
++ Anzeigename:    Einfacher Name, um die Anlage zu identifizieren
 + Besitzer:       Der Besitzer der Anlage
 + Meldungen:      Anzahl der Meldungen die in der Anlage aufgelaufen sind.
 
