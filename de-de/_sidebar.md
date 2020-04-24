@@ -2,6 +2,7 @@
 
 * [Technisches](de-de/technical)  
 * [Benutzerrollen](de-de/role)  
+
 * Registrierung
     * [Neuer Benutzer](de-de/newUser)
     * [Neue Anlage](de-de/newSystem)
@@ -13,6 +14,9 @@
     * [Einstellungen](de-de/settings)
     * [Meldungen](de-de/email)
     * [informationen](de-de/info)
+
+* [dinoAccess](de-de/dinoAccess)
+
 
 
 

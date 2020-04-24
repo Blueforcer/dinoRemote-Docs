@@ -37,3 +37,4 @@ Sie haben die Möglichkeit
 + Nur dem Fachhändler den Zugriff erlauben.
 + Nur dinotec den Zugriff erlauben.
 + dinotec und dem Fachhändler den Zugriff zu erlauben.  
++ Anderen dinoRemote Nutzern die Aanlage freigeben. Tragen Sie hierfür eine email-Adresse eines vorhandenen dinoRemote Acccounts ein
