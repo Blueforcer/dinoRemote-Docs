@@ -1,10 +1,12 @@
-![logo](/assets/dinotec_logo_2.png)
+<div align=center>
+  <img width="600" src="/assets/dinotec_logo_2.png"/> 
+</div>
 
-# dinoRemote <small>1.5</small>
+<br>
 
-* Alles im Blick
-* Alles im Griff
+# dinoRemote <small>1.7</small>
 
+<br>
 
 [deutsch](de-de/README) 
 [english](en-en/README)
