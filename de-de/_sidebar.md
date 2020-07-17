@@ -15,7 +15,7 @@
     * [Meldungen](de-de/email)
     * [informationen](de-de/info)
 
-* [dinoAccess](de-de/dinoAccess)
+* [dinoAccess](de-de/dinoaccess)
 
 
 

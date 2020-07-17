@@ -3,7 +3,7 @@
 With LiveView you can compile your individual information screen and do not have to navigate through several screens on the system.
 This screen is updated automatically every 5 minutes.
 
-![image alt text](assets/live.png)
+![image alt text](../assets/live.png)
 
 There are no modules the first time you use the LiveView.
 You can configure your LiveView by clicking on "START EDITING MODE".
@@ -11,7 +11,7 @@ You can configure your LiveView by clicking on "START EDITING MODE".
 
 ---
 
-<img align="right" width="393" height="848" src="en-en/assets/edit.png">
+<img align="right" width="393" height="848" src="assets/edit.png">
 
 The LiveView consists of "modules".  
 dinotec has prepared some important parameters for easy access.  
@@ -47,7 +47,7 @@ The section **Expert Mode** explains the configuration of a module.
 
 some modules offer settings you can change.
 
-![image alt text](assets/modul.png)
+![image alt text](../assets/modul.png)
 
 With <i class="fa fa-cog fa-lg"></i> you can call the settings of the module and adjust the scale.  
 <i class="fa fa-times fa-lg" style="color:red"></i> deletes the current module from the LiveScreen.
@@ -57,7 +57,7 @@ With <i class="fa fa-cog fa-lg"></i> you can call the settings of the module and
 You can change the name (signature) of the module as you like. Mark the current name and type in a new one.
 If you completely delete your own name, the default name is used again. 
 
-![image alt text](assets/name.gif)  
+![image alt text](../assets/name.gif)  
 
 
 ## Change order
@@ -65,7 +65,7 @@ If you completely delete your own name, the default name is used again.
 
 By clicking on the arrows at the edge of each module, you can change the arrangement in the LiveView.  
   
-![image alt text](assets/order.gif)
+![image alt text](../assets/order.gif)
 
 ## Expert mode
 

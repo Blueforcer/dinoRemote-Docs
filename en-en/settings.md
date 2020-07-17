@@ -4,7 +4,7 @@ Here you will find the general setting for your system.
 Many settings are only available for the system owner.  
 Each time you make a change, you must save it at the end of the page.
 
-![image alt text](assets/settings.png)
+![image alt text](../assets/settings.png)
 
 
 **Display name**  
@@ -36,4 +36,5 @@ You have the option of
 + Deactivate the release.
 + Only allow the specialist dealer access.
 + Only allow dinotec access.
-+ Allow both of them access.  
++ Allow both of them access.
++ Allow other dinoRemote users to access the system. Enter the email address of an existing dinoRemote account  

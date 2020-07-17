@@ -16,7 +16,7 @@ Only a few messages require your action. We therefore recommend that you only su
 In the first section, enter up to 3 addresses to which the messages are to be sent.
 The messages are the same for all e-mail addresses. However, each user can have individual messages sent.
 
-![image alt text](assets/mail.png)
+![image alt text](../assets/mail.png)
 
 After a click on **SAVE** the selection of the messages appears.  
 Here you find all messages which can occur theretically on the system.    
@@ -25,4 +25,4 @@ You have the possibility to sort the messages according to their importance (sta
 **<span style="color:green">SUBSCRIBE MESSAGES </span>**. saves the selection and activates the reporting system.  
 **<span style="color:red">SUBSCRIBE SUBSCRIBE </span>** disables all messages.
 
- ![image alt text](assets/message.png)
+ ![image alt text](../assets/message.png)

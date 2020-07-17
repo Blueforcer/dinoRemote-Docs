@@ -1,13 +1,13 @@
 # Impressum  
 dinotec GmbH  
 Wassertechnologie und Schwimmbadtechnik  
-Spessartstrasse 7  
-D-63477 Maintal  
+Philipp-Reis-Str. 28  
+D-61130 Nidderau
   
 Telefon:  
-+49 61 09 / 60 11-0   
++49 61 87 / 413 79-0   
 Fax:  
-+49 61 09 / 60 11-90   
++49 61 87 / 413 79 90   
 E-Mail:   
 mail@dinotec.de  
   

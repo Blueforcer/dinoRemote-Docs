@@ -5,7 +5,7 @@ This token is unique and only fits this box. The next section explains how you c
 
 There are 2 ways to register a new system. You will find the menu in the left sidebar.
 
-![image alt text](assets/newsystem.png)
+![image alt text](../assets/newsystem.png)
 
 ##### The end customer registers the system
 If the end customer does not have a specialist dealer or the end customer wants to register the system himself, the customer can do this via his account. The attachment will then be bound to his account.

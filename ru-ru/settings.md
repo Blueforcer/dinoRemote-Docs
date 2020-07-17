@@ -4,7 +4,7 @@ Hier finden sie die Allgemeinen Einstellung zu Ihrer Anlage.
 Viele Einstellungen sind nur für den Anlagenbesitzer verfügbar.  
 Bei jeder Änderung ist das Speichern am Ende der Seite erforderlich.
 
-![image alt text](assets/settings.png)
+![image alt text](../assets/settings.png)
 
 
  **Anzeigename**  

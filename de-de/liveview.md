@@ -3,7 +3,7 @@
 Mit LiveView können Sie sich Ihren individuellen Informations-Bildschirm zusammenstellen und müssen nicht durch mehrere Bildschirme auf der Anlage navigieren.
 Dieser Bildschirm wird alle 5 Minuten automatisch aktualisiert.
 
-![image alt text](assets/live.png)
+![image alt text](../assets/live.png)
 
 Bei der ersten Verwendung des LiveViews sind keine Module vorhanden.
 Durch ein klick auf "EDITIERMODUS BEGINNEN" können Sie sich Ihren LiveView konfigurieren.
@@ -11,7 +11,7 @@ Durch ein klick auf "EDITIERMODUS BEGINNEN" können Sie sich Ihren LiveView konf
 
 ---
 
-<img align="right" width="393" height="848" src="de-de/assets/edit.png">
+<img align="right" width="393" height="848" src="assets/edit.png">
 
 Das LiveView besteht aus "Modulen".  
 dinotec hat für den einfachen Zugriff einige wichtige Parameter vorgefertigt.  
@@ -46,7 +46,7 @@ Im Abschnitt **Experten Modus** wird die Konfiguration eines Moduls erklärt.
 
 Einige Module bieten Einstellungen die Sie ändern können.
 
-![image alt text](assets/modul.png)
+![image alt text](../assets/modul.png)
 
 Mit <i class="fa fa-cog fa-lg"></i> rufen Sie die Einstellungen des Moduls auf und können damit z.B die Skala anpassen.  
 <i class="fa fa-times fa-lg" style="color:red"></i> löscht das aktuelle Modul aus dem LiveScreen.
@@ -56,14 +56,14 @@ Mit <i class="fa fa-cog fa-lg"></i> rufen Sie die Einstellungen des Moduls auf u
 Sie können den Namen (Unterschrift) des Moduls beliebig ändern. Markieren Sie den aktuellen Namen und tippen Sie einen neuen ein.
 Wenn Sie den eigenen Namen komplett löschen, so wird wieder der Standardname verwendet. 
 
-![image alt text](assets/name.gif)  
+![image alt text](../assets/name.gif)  
 
 
 ## Anordnung ändern
 
 Durch Klicken auf die Pfleile die sich am Rand jedes Moduls befinden, können die die Anordnung im LiveView ändern.  
   
-![image alt text](assets/order.gif)
+![image alt text](../assets/order.gif)
 
 ## Expertenmodus
 

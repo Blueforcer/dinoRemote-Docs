@@ -2,7 +2,7 @@
 
 Hier finden Sie verschiedene Informationen zu der gewählten Anlage
 
-![image alt text](assets/info.png)
+![image alt text](../assets/info.png)
 
 + **Ablaufdatum**
 Jede dinoRemote Box besitzt ein einzigartiges Zertifikat. Dieses sorgt für eine sichere Verbindung zum dinoRemote Server.

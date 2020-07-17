@@ -10,4 +10,4 @@ If you as an end customer have a supporting specialist dealer, enter the company
 
 As soon as you have completed your entries by clicking on "Register", a dinotec employee will take care of your registration and release it as quickly as possible. If the registration has been checked, you will receive an email shortly afterwards to your specified email address, in which you will be asked to provide your personal password via a link. Directly after that you have access to dinoRemote.
 
-![image alt text](assets/register.png)
+![image alt text](../assets/register.png)

@@ -3,7 +3,7 @@
 The main screen after logging in is the system overview.
 Here all attachments are listed to which the user has access.
 
-![image alt text](assets/overview.png)
+![image alt text](../assets/overview.png)
 
 + Status : Displays the online / offline status of the system.
 + Display name: Simple name to identify the system

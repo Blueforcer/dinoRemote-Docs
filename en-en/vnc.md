@@ -5,7 +5,7 @@ Remote maintenance allows direct access to the system. The screen is transmitted
 You can navigate through the system as if you were standing right in front of it.
 Every screen change is also carried out on site.
 
-![image alt text](assets/vnc.png)
+![image alt text](../assets/vnc.png)
 
 You can also perform remote maintenance in full screen mode. To do this, click on "FULL PICTURE".
 Another browser tab opens and only the screen of the installation can be seen. If you want real full screen on your monitor, press F11 on your keyboard.

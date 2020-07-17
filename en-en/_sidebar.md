@@ -2,9 +2,11 @@
 
 * [Technical](en-en/technical)  
 * [User roles](en-en/role)  
+  
 * Registration
     * [New User](en-en/newUser)
     * [New system](en-en/newSystem)
+
 * Functions
     * [Navigation](en-en/navi)
     * [Remote maintenance](en-en/vnc)
@@ -13,3 +15,4 @@
     * [Messages](en-en/email)
     * [information](en-en/info)
 
+* [dinoAccess](en-en/dinoaccess)

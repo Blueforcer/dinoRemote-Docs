@@ -2,7 +2,7 @@ System information
 
 Here you will find various information on the selected system
 
-![image alt text](assets/info.png)
+![image alt text](../assets/info.png)
 
 + **Expiry date**
 Each dinoRemote box has a unique certificate. This ensures a secure connection to the dinoRemote server.

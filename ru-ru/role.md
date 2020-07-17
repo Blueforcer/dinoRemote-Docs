@@ -14,4 +14,4 @@ Im Nachfolgenden wird die Struktur und der Aufbau von dinoRemote erklärt.
 
 Möglicher Aufbau:
 
-![image alt text](assets/role.png)
+![image alt text](../assets/role.png)

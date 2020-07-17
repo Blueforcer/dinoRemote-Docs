@@ -14,4 +14,4 @@ For data protection reasons it is necessary that the owner actively releases his
 
 Possible structure:
 
-![image alt text](assets/role.png)
+![image alt text](../assets/role.png)

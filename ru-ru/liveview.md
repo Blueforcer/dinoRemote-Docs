@@ -3,7 +3,7 @@
 Mit LiveView können Sie sich ihren Individuellen Informations-Bildschirm zusammenstellen und müssen sich nicht durch mehrere Bildschirme auf der Anlage navigieren.
 Dieser Bildschirm wird alle 5 Minuten aqutomtisch aktualisiert.
 
-![image alt text](assets/live.png)
+![image alt text](../assets/live.png)
 
 Bei der ersten Verwendung des LiveViews sind keine Module vorhanden.
 Durch ein klick auf "EDITIERMODUS BEGINNEN" können Sie sich Ihren LiveView konfigurieren.
@@ -46,7 +46,7 @@ Im Abschnitt **Experten Modus** wird die Konfiguration eines Moduls erklärt.
 
 einige Module bieten Einstellungen die Sie ändern können.
 
-![image alt text](assets/modul.png)
+![image alt text](../assets/modul.png)
 
 Mit <i class="fa fa-cog fa-lg"></i> rufen Sie die Einstellungen des Moduls auf, und können damit z.B die Skala anpassen.  
 <i class="fa fa-times fa-lg" style="color:red"></i> löscht das aktuelle Modul aus dem LiveScreen.
@@ -56,7 +56,7 @@ Mit <i class="fa fa-cog fa-lg"></i> rufen Sie die Einstellungen des Moduls auf, 
 Sie können den Namen (Unterschrift) des Moduls beliebig ändern. Makieren Sie den aktuellen Namen und tippen Sie einen neuen ein.
 Wenn sie den eigenen Namen komplett löschen, so wird wieder der Standartname verwendet. 
 
-![image alt text](assets/name.gif)  
+![image alt text](../assets/name.gif)  
 
 
 ## Anordnung ändern
@@ -64,7 +64,7 @@ Wenn sie den eigenen Namen komplett löschen, so wird wieder der Standartname ve
 
 Durch Klicken auf die Pfleile die sich am Rand jedes Moduls befinden, können die die Anordnung im LiveView ändern.  
   
-![image alt text](assets/order.gif)
+![image alt text](../assets/order.gif)
 
 
 
