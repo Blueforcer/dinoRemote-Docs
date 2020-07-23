@@ -55,3 +55,5 @@ Sie können uns die bereits aktivierte Karte auch zusenden und Ihre dinoRemote B
 + Verwenden Sie keine Wlan-Adapter oder Powerline-Adapter
 + Überprüfen Sie die ordnungsgemäße Verkabelung
 + Die Datenübertragung ist zu langsam oder kein Empfang (vorwiegend bei UMTS)
+
+**

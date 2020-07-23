@@ -53,5 +53,9 @@ You can also send us the already activated card and your dinoRemote Box will be 
 + Do not use Wifi bridges or Powerline adapters
 + Check the correct cabling
 + Data transmission is too slow or no reception (mainly with UMTS)
-
-
+  
+   
+**Kein Zugang zur Fernwartung**  
+    
++ Die Verbindung zum dinotecNET+ ist unterbrochen. Ein neustart des dinotecNET+ kann hierbei Abhilfe schaffen. 
+  
