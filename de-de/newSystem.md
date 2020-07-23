@@ -3,6 +3,8 @@
 Um eine neue Anlage zu registrieren, benötigen Sie den 12-stelligen Token, der sich auf der **dinoRemote Box** befindet.
 Dieser Token ist einzigartig und passt nur zu dieser dinoRemote Box. Wie Sie mehrere Anlagen mit einer **dinoRemote Box** verwenden können, erfahren Sie im nächsten Abschnitt.
 
+!> Verwenden Sie das Token  im normalfall nicht mehrmals! Jede Token-Registrierung wird mit einem völlig neue generierten System in dinoremote verknüpft [(siehe Mehrere Systeme registrieren)](de-de/newSystem?id=mehrere-anlagen-über-eine-dinoremote-box-registrieren)
+
 Es gibt 2 Möglichkeiten eine neue Anlage zu registrieren. Das Menü hierzu finden Sie in der linken Sidebar.
 
 ![image alt text](../assets/newsystem.png)
@@ -14,11 +16,13 @@ Nach der Registrierung ist die Anlage sofort in der Anlagenübersicht verfügbar
 
 
 #### Der Fachhändler registriert die Anlage  
-Der Fachhändler hat die Möglichkeit, eine Anlage entweder für Ihn selbst (z.B Privatpool oder DemoAnlage) oder für einen seiner Endkunden zu registrieren.
+Der Fachhändler hat die Möglichkeit, eine Anlage entweder für Ihn selbst (z.B Privatpool oder DemoAnlage) oder für einen seiner Endkunden zu registrieren (Das Endkundenkonto muss vorher bestehen).
 
 Nach der Registrierung ist die Anlage sofort in der Anlagenübersicht verfügbar.
 
 ***
+
+?> Anlagen können nur von dinotec Mitarbeitern neu zugeordnet oder gelöscht werden. Daher ist es wichtig die Standardhierachie einzuhalten um spätere Missverständnisse zu vermeiden! [Siehe Benutzerrollen](de-de/role)
 
 ### Mehrere Anlagen über eine dinoRemote Box registrieren
 
