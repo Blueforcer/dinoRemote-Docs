@@ -55,7 +55,6 @@ You can also send us the already activated card and your dinoRemote Box will be 
 + Data transmission is too slow or no reception (mainly with UMTS)
   
    
-**Kein Zugang zur Fernwartung**  
+**No access to remote maintenance**  
     
-+ Die Verbindung zum dinotecNET+ ist unterbrochen. Ein neustart des dinotecNET+ kann hierbei Abhilfe schaffen. 
-  
++ The connection to the dinotecNET+ is interrupted. A restart of the dinotecNET+ can help here. 
